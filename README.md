@@ -2,7 +2,8 @@
 Statistic course 02323 taken at DTU Lyngby 
 
 Mandatory Assignment 1
--This is the first mandatory project in course Statistic 02323. It was submitted and accepted with the following remarks from the teacher assistant. 
+
+- This is the first mandatory project in course Statistic 02323. It was submitted and accepted with the following remarks from the teacher assistant. 
 
 Flot opgave!
 
@@ -15,7 +16,8 @@ Ellers se filen for andre små fejl .
 The mistakes are highlighted in the file rettet.pdf
 
 Mandatory Assignment 2 
--This is the second mandatory project in course Statistic 02323. It was submitted and accepted with the following remarks from the teach assistant
+
+- This is the second mandatory project in course Statistic 02323. It was submitted and accepted with the following remarks from the teach assistant
 
 Hej Muhammed,
 
