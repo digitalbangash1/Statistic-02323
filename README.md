@@ -1,6 +1,6 @@
 # Statistic
 Statistic course 02323 taken at DTU Lyngby 
-This is the first mandatory project in course Statistic 02323. It was submitted and accepted with the following remarks from the teacher assistant. The 
+This is the first mandatory project in course Statistic 02323. It was submitted and accepted with the following remarks from the teacher assistant. 
 
 Flot opgave!
 
